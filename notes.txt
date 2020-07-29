@@ -1,3 +1,0 @@
-// to run lite-server
-// npm start
-// to run typescript compiler
