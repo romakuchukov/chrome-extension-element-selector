@@ -1,0 +1,16 @@
+body {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.btn {
+  -webkit-transform: scale(3) translateX(100px);
+  transform: scale(3) translateX(100px);
+}
+
+#hover-box {
+  position: absolute;
+  background: #add8e6;
+  z-index: -9999;
+  transition: all 200ms ease;
+}
